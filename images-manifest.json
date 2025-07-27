@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-27T11:02:42.870Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-house-outline.png",
+      "file_name": "logo-house-outline.png",
+      "description": "Stylized green outline of a house with two windows and a door, incorporating light green accents.",
+      "suggested_usage": "Use as company logo in header/footer.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-finished-exterior.jpg",
+      "file_name": "project-tanvald-finished-exterior.jpg",
+      "description": "An older house with a newly renovated white facade and dark brown upper level, featuring multiple windows, set against a backdrop of dense forest and a grassy yard.",
+      "suggested_usage": "Use in project gallery or case studies album, showing a completed project exterior.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo-modern-house.jpg",
+      "file_name": "project-rdpo-modern-house.jpg",
+      "description": "A modern, newly renovated house with a light beige facade and a dark grey tiled roof, featuring dark-framed windows and a clean, minimalist design, with cars parked on the street in front.",
+      "suggested_usage": "Use in project gallery or case studies album, showing a completed modern build/renovation.",
+      "size_bytes": 558411
+    }
+  ]
+}
